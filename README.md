@@ -1,5 +1,3 @@
-### Hola
+### Visi's Webpage
 
-222
-
-
+Este es el repo en el que practico lo que aprendo de HTML, CSS y JS.
